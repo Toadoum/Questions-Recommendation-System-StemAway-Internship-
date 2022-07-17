@@ -10,7 +10,7 @@ st.sidebar.header("Tasks Progress")
 
 #st.markdown(f'Task 1:')
 
-st.markdown('<h2 style=color:#4169e1;">General Discussion</h2>', unsafe_allow_html=True)
+st.markdown('<h2 style=color:#7FE4548B;">General Discussion</h2>', unsafe_allow_html=True)
 
 #st.markdown('<h3 style=color:#4169e1;">Progress Made</h1>', unsafe_allow_html=True)
 
@@ -41,7 +41,7 @@ sets This dataset [Stack Overflow Data | Kaggle 5] can be used as an example of 
 
 
 
-st.markdown('<h3 style=color:#4169e1;">References</h1>', unsafe_allow_html=True)
+st.markdown('<h3 style=color:#7FE4548B;">References</h1>', unsafe_allow_html=True)
 
 st.markdown(""" 
 * Prompt BERT: https://github.com/kongds/Prompt-BERT
@@ -60,7 +60,7 @@ st.markdown("""
 
 #st.markdown(f'Task 2:')
 
-st.markdown('<h2 style=color:#4169e1;">Prototyping - Web Scraping</h2>', unsafe_allow_html=True)
+st.markdown('<h2 style=color:#7FE4548B;">Prototyping - Web Scraping</h2>', unsafe_allow_html=True)
 
 # st.markdown('<h3 style=color:#4169e1;">Progress Made</h1>', unsafe_allow_html=True)
 
@@ -87,7 +87,7 @@ st.markdown('<h2 style=color:#4169e1;">Prototyping - Web Scraping</h2>', unsafe_
 
 # #st.markdown(f'Task 3:')
 
-# st.markdown('<h2 style=color:#4169e1;">Task 3 - Modelling</h2>', unsafe_allow_html=True)
+# st.markdown('<h2 style=color:#7FE4548B;">Task 3 - Modelling</h2>', unsafe_allow_html=True)
 
 # st.markdown('<h3 style=color:#4169e1;">Progress Made</h1>', unsafe_allow_html=True)
 

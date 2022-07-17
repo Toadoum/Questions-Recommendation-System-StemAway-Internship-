@@ -35,7 +35,7 @@ st.set_page_config(
 # response = requests.get(IMG_URL)
 # img = Image.open(BytesIO(response.content))
 
-st.markdown("<h1 style='text-align: center; color: #4169e1;margin-top:-50px;'>STEMAWAY INTERNSHIP</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #7FE4548B;margin-top:-50px;'>STEMAWAY INTERNSHIP</h1>", unsafe_allow_html=True)
 st.write("")
 st.write("")
 st.subheader('BUILDING A RECOMMENDER SYSTEM FOR DISCOURSE')
