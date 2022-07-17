@@ -20,19 +20,19 @@ The first meeting was to discuss about the general idea of the project and draft
 * Main Points
 Recommender systems paradigms: Matrix factorization and Semantic Similarity measures.\
 
-* Base-plan:\
+* Base-plan:
 Use sentence-BERT 1 to compute topic vectors Compare results with TF-IDF for discourse/stackExchange API’s Add-ons:
 Use multi-modal transformers to inject structured data (time, visits count, etc) and act as s supervisory signal
 Use Pincode for adding the structured data in a post modeling fashion as well as for optimized deployment.\
 
-* Future Considerations\
+* Future Considerations
 A literature review is to be made and both should be compared and contrasted:
 Exploring actual encoding mechanism E.g: sentence-BERT, prompt-BERT, xDeepFM…etc
 Combining structural data with text E.g: Multi-modal transformer, Pinecode…etc
 Recommender system loop: How these systems work from start to finish and specifically for the “recommender” backbone, 
 whether it uses a multi stage process or not Supervisory signals nature and addition (what type of structured data can we use?)\
 
-* Exploratory Teams\
+* Exploratory Teams
 Help with data cleaning and preparation; getting the data in the ‘right’ form for more deep models Web-scrapping for similar topics 
 sets This dataset [Stack Overflow Data | Kaggle 5] can be used as an example of what we would like to work with.
 """, unsafe_allow_html=True)
