@@ -64,5 +64,8 @@ st.subheader('Project Manager')
 
 st.markdown('[Sakayo Toadoum Sari](https://www.linkedin.com/in/toadoum/)')
 
-st.header('[Vedant Tewari](https://www.linkedin.com/in/vedant-tewari-8a5712203/)')
+st.header('Participant')
+
+st.markdown('[Vedant Tewari](https://www.linkedin.com/in/vedant-tewari-8a5712203/)')
+
 
