@@ -12,7 +12,7 @@ st.sidebar.header("Tasks Progress")
 
 st.markdown('<h2 style=color:#4169e1;">General Discussion</h2>', unsafe_allow_html=True)
 
-st.markdown('<h3 style=color:#4169e1;">Progress Made</h1>', unsafe_allow_html=True)
+#st.markdown('<h3 style=color:#4169e1;">Progress Made</h1>', unsafe_allow_html=True)
 
 st.markdown(""" 
 The first meeting was to discuss about the general idea of the project and draft something.\
@@ -37,7 +37,7 @@ Help with data cleaning and preparation; getting the data in the ‘right’ for
 sets This dataset [Stack Overflow Data | Kaggle 5] can be used as an example of what we would like to work with.
 """, unsafe_allow_html=True)
 
-st.markdown('<h3 style=color:#4169e1;">Next Steps</h1>', unsafe_allow_html=True)
+#st.markdown('<h3 style=color:#4169e1;">Next Steps</h1>', unsafe_allow_html=True)
 
 
 
