@@ -12,7 +12,7 @@ st.subheader("Overview")
 
 st.markdown(f'Timeline from the Start of the Week: ')
 
-st.markdown('<h3 style=color:#7FE4548B;">Week 1-3</h1>', unsafe_allow_html=True)
+st.markdown('<h3 style=color:#3CAF0B8B;">Week 1-3</h1>', unsafe_allow_html=True)
 
 st.markdown(""" 
 * Training
@@ -21,7 +21,7 @@ st.markdown("""
 * Look for online dataset for prototype
 """, unsafe_allow_html=True)
 
-st.markdown('<h3 style=color:#7FE4548B;">Week 4-8</h1>', unsafe_allow_html=True)
+st.markdown('<h3 style=color:#3CAF0B8B;">Week 4-8</h1>', unsafe_allow_html=True)
 
 st.markdown(""" 
 * Identifying our target, minimum and maximum goal
