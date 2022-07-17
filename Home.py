@@ -46,31 +46,31 @@ with col1:
     
     
     st.markdown("""
-    SustainLab is building an ecosystem of software and AI solutions to help companies to become more sustainable. \
-    The result of this project, which is related to text mining and text analysis of annual sustainability reports \
-    that companies publish globally, will be used to benchmark companies in their industry and globally. The \
-    sustainability benchmarking system combined with our software product will be very valuable for companies, \
-    and the comparison against competitors is a compelling incentive for companies to set more ambitious goals and \
-    take bolder steps towards those goals. As companies are the main contributor to our unsustainable environment, \
-    society and finance helping them to become more sustainable has a huge impact for our planet and our society. \
+    What is Discourse?
+    Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a\
+    mailing list, discussion forum, long-form chat room, and more!\
+    Discourse is a from-scratch reboot, an attempt to reimagine what a modern Internet discussion forum should be today,\
+    in a world of ubiquitous smartphones, tablets, Facebook, and Twitter.
+    Discourse's trust system means that the community builds a natural immune system to defend itself from trolls, bad actors,\
+    and spammers — and the most engaged forum members can assist in the governance of their community. They put a trash can on\
+    every street corner with a simple, low-friction flagging system. Positive behaviors are encouraged through likes and badges. \
+    They gently, constantly educate members in a just-in-time manner on the universal rules of civilized discourse.
     
-    The main problem is that the data of sustainability reports do not follow any standard format and important \
-    figures are presented in a very unstructured way. 
+    The main problem is that Discourse plateform have not yet an efficient recommender system to help avoiding duplicate questions.\
+    A recommender system that can recommend to a user when asking a question a similare question already answered will help people\
+    trying to give answer to the same problem again and again without knowing. 
     
     Steps to be followed for a defined workflow :
 
-    - Identify important sentences, in which important information such as actions or measurements are reported. \
+    - Use stack overflow and Quora dataset for prototyping. \
 
-    - Connect all discovered pieces of information throughout the report and summarise them in a structured way.
+    - Perform a web srapping on discourse plateform to validate our prototype.\
 
-    - Well modelled ML tasks with their algorithms for classifying sentences and paragraphs to topics, actions, \
-    measurements, etc.
+    - Build the final product as a pluging to add within discourse plateform.\
     
-    A collected dataset of 40,000 sustainability reports that is cleaned and labelled has been provided and \
-    further enabling to gather additional data. 
+     
     """,  unsafe_allow_html=True)
 
 # with col4:
     
 #     st.image(img.resize((400, 500)))
-
